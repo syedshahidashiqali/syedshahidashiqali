@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web 3.0, Solidity, and Smart Contracts.
 - 💞️ I’m looking to collaborate on MERN Stack projects.
 - 📫 How to reach me ...
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/shahid-ashiq-ali/)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/syed-shahid-ali-ssa/)
 
 <!---
 syedshahidashiqali/syedshahidashiqali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
