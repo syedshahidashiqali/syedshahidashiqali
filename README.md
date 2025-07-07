@@ -48,7 +48,7 @@ I'm an innovative Full Stack Developer with **3+ years** of experience building 
 ### **🔹 [StepsConnect – AI-Powered Recruitment Platform](https://www.stepsconnect.com/)**
 A cutting-edge HR platform that automates hiring workflows and optimizes talent engagement.  
 
-🔗 [Candidate Platform](https://app.stepsconnect.com/) | 🔗 [HR Platform](https://hire.stepsconnect.com/)  
+🔗 [Candidate Platform](https://www.stepsconnect.com/) | 🔗 [HR Platform](https://www.stepsconnect.com/)  
 
 - Developed multiple modules in a **monorepo structure**.
 - Created **custom AI-based job posting** and **multi-platform integration** (Indeed, LinkedIn, etc.).
