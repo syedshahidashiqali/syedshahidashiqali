@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 I'm an innovative Full Stack Developer with **3+ years** of experience building scalable **web and mobile applications**. Passionate about writing clean, efficient code and solving complex problems. 
 
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge)](https://shahid-dev-portfolio.vercel.app)
 ---
 
 ## 🛠️ Tech Stack  
@@ -65,6 +67,7 @@ A cutting-edge HR platform that automates hiring workflows and optimizes talent 
 ---
 
 ## 📫 Let's Connect!  
+🌐 [Portfolio](https://shahid-dev-portfolio.vercel.app)  
 💼 [LinkedIn](https://www.linkedin.com/in/syed-shahid-ali-ssa)  
 📧 syedshahid1215@gmail.com  
 📍 Open to remote opportunities  
