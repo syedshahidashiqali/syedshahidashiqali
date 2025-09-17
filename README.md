@@ -45,6 +45,27 @@ I'm an innovative Full Stack Developer with **3+ years** of experience building 
 
 ---
 
+## 🌐 **n8n Automation & Workflow Engineering**  
+
+After completing the **n8n Level 1** and **Level 2** courses, I’m excited about the potential of **workflow automation** and **AI integration** to optimize business processes. With n8n, I have gained hands-on experience automating complex workflows and creating scalable solutions for business needs.
+
+### 🛠️ **Skills Acquired**  
+- **Workflow Automation**: Designing and managing end-to-end automated workflows for business processes.
+- **Data Handling**: Merging, filtering, and transforming data from multiple sources (APIs, Airtable, Google Sheets, etc.).
+- **Error Handling & Logging**: Implementing robust error-handling strategies for error-free execution of workflows.
+- **Scheduling & Notifications**: Automating notifications via **Discord**, **email**, and **other integrations** to keep stakeholders informed.
+- **Custom Logic with JavaScript**: Leveraging the **Code node** for advanced data processing and logic building.
+
+### 🚀 **Notable Projects**  
+- **Automated Order Processing Workflow**: Integrated data from a warehouse, filtered orders into two categories (Processing & Booked), saved processing orders to **Airtable**, and sent notifications to **Discord**.
+- **AI-Powered Daily Email Digest**: Summarized emails using **Gemini AI** and posted the digest to **Discord** automatically.
+- **Google Calendar → Discord Integration**: Instant notifications for new calendar events.
+
+[Check out my **Verified Level 1 Badge**](https://community.n8n.io/badges/104/completed-n8n-course-level-1?username=syedshahidali)  
+[Check out my **Verified Level 2 Badge**](https://community.n8n.io/badges/105/completed-n8n-course-level-2?username=syedshahidali)
+
+---
+
 ## 🌟 Featured Projects  
 
 ### **🔹 [StepsConnect – AI-Powered Recruitment Platform](https://www.stepsconnect.com/)**
@@ -71,3 +92,9 @@ A cutting-edge HR platform that automates hiring workflows and optimizes talent 
 💼 [LinkedIn](https://www.linkedin.com/in/syed-shahid-ali-ssa)  
 📧 syedshahid1215@gmail.com  
 📍 Open to remote opportunities  
+
+---
+
+## 📚 Certifications  
+- **n8n Level 1 Course**: [View Badge](https://community.n8n.io/badges/104/completed-n8n-course-level-1?username=syedshahidali)  
+- **n8n Level 2 Course**: [View Badge](https://community.n8n.io/badges/105/completed-n8n-course-level-2?username=syedshahidali)
