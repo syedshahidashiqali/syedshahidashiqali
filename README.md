@@ -93,7 +93,9 @@ A cutting-edge HR platform that automates hiring workflows and optimizes talent 
 
 ## 📫 Let's Connect!  
 🌐 [Portfolio](https://shahid-dev-portfolio.vercel.app)  
+<!---
 💼 [LinkedIn](https://www.linkedin.com/in/syed-shahid-ali-ssa)  
+--->
 📧 syedshahid1215@gmail.com  
 📍 Open to remote opportunities  
 
