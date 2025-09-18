@@ -68,10 +68,14 @@ After completing the **n8n Level 1** and **Level 2** courses, I’m excited abou
 
 ## 🌟 Featured Projects  
 
+<!---
 ### **🔹 [StepsConnect – AI-Powered Recruitment Platform](https://www.stepsconnect.com/)**
 A cutting-edge HR platform that automates hiring workflows and optimizes talent engagement.  
 
 🔗 [Candidate Platform](https://www.stepsconnect.com/) | 🔗 [HR Platform](https://www.stepsconnect.com/)  
+--->
+### **🔹 [AI-Powered Recruitment Platform](#)**
+A cutting-edge HR platform that automates hiring workflows and optimizes talent engagement.  
 
 - Developed multiple modules in a **monorepo structure**.
 - Created **custom AI-based job posting** and **multi-platform integration** (Indeed, LinkedIn, etc.).
